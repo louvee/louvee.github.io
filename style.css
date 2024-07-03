@@ -1,0 +1,121 @@
+@font-face {
+  font-family: "Questrial";
+  src: url("Questrial.ttf") format("truetype");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --neutral-000: #000;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+h1,
+h2,
+h3,
+a,
+p {
+  font-family: "Questrial", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2rem;
+  line-height: 2rem;
+  hyphens: none;
+  color: var(--neutral-000);
+}
+
+h1::before,
+h1::after,
+p::before,
+p::after {
+  content: "";
+  display: table;
+}
+
+h1::before {
+  margin-bottom: -0.143em;
+}
+
+h1::after {
+  margin-top: -0.195em;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  opacity: 50%;
+}
+
+a:hover,
+a:active {
+  text-decoration: underline;
+}
+
+a:focus-visible {
+  outline: 0.125rem solid var(--neutral-000);
+  outline-offset: 0.125rem;
+}
+
+p {
+  font-size: 0.75rem;
+  line-height: 1rem;
+  opacity: 50%;
+}
+
+p::before {
+  margin-bottom: -0.143em;
+}
+
+p::after {
+  margin-top: -0.195em;
+}
+
+h3 {
+  font-size: 0.75rem;
+  line-height: 0.75rem;
+}
+
+h3::before {
+  margin-bottom: -0.143em;
+}
+
+h3::after {
+  margin-top: -0.195em;
+}
+
+.intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.footer {
+  position: fixed;
+  bottom: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  width: 100%;
+}
+
+.content {
+  margin: 1rem auto;
+  padding: 0 1rem;
+  box-sizing: border-box;
+  max-width: 42rem;
+}
