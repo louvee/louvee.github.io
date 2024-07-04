@@ -10,15 +10,24 @@
 }
 
 :root {
-  --neutral-000: #000;
+  --neutral-100: oklch(0 0 0);
+  --neutral-075: oklch(0 0 0 / 0.75);
 }
 
-html,
+html {
+  font-size: 100%;
+}
+
 body {
-  height: 100%;
-  width: 100%;
+  font-size: 1rem;
+  line-height: 1;
+  min-height: 100%;
+  min-height: 100dvh;
+  min-width: 100%;
+}
+
+.index {
   overflow: hidden;
-  font-size: 16px;
 }
 
 h1,
@@ -28,17 +37,42 @@ a,
 p {
   font-family: "Questrial", sans-serif;
   font-weight: 400;
-  font-style: normal;
+  color: var(--neutral-100);
+}
+
+h1 {
   font-size: 2rem;
   line-height: 2rem;
-  hyphens: none;
-  color: var(--neutral-000);
+}
+
+h2 {
+  font-size: 1.25rem;
+  line-height: 1.25rem;
+}
+
+h3 {
+  font-size: 0.75rem;
+  line-height: 0.75rem;
+}
+
+p {
+  font-size: 0.75rem;
+  line-height: 1rem;
+  color: var(--neutral-075);
+}
+
+a {
+  font-size: inherit;
+  line-height: inherit;
+  color: inherit;
 }
 
 h1::before,
 h1::after,
 p::before,
-p::after {
+p::after,
+h3::before,
+h3::after {
   content: "";
   display: table;
 }
@@ -48,6 +82,22 @@ h1::before {
 }
 
 h1::after {
+  margin-top: -0.195em;
+}
+
+p::before {
+  margin-bottom: -0.143em;
+}
+
+p::after {
+  margin-top: -0.195em;
+}
+
+h3::before {
+  margin-bottom: -0.143em;
+}
+
+h3::after {
   margin-top: -0.195em;
 }
 
@@ -65,35 +115,8 @@ a:active {
 }
 
 a:focus-visible {
-  outline: 0.125rem solid var(--neutral-000);
+  outline: 0.125rem solid var(--neutral-100);
   outline-offset: 0.125rem;
-}
-
-p {
-  font-size: 0.75rem;
-  line-height: 1rem;
-  opacity: 50%;
-}
-
-p::before {
-  margin-bottom: -0.143em;
-}
-
-p::after {
-  margin-top: -0.195em;
-}
-
-h3 {
-  font-size: 0.75rem;
-  line-height: 0.75rem;
-}
-
-h3::before {
-  margin-bottom: -0.143em;
-}
-
-h3::after {
-  margin-top: -0.195em;
 }
 
 .intro {
