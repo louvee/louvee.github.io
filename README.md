@@ -10,7 +10,7 @@ My site is built using basic HTML, CSS, and JavaScript.
 
 ### About Me
 
-I’m an identity, web, and user interface designer based in South Germany. I like shoegaze, flowers, and the 1976 movie "Alien".
+I’m an identity, web, and user interface designer based in South Germany. I like shoegaze, flowers, and the 1979 movie "Alien".
 
 ### License
 
