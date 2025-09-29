@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Allgemeine Geschäftsbedingungen (AGB) von Louis Elia Hirsch – Web Design, Interface Design, Branding in Baden-Württemberg, Deutschland."
+    />
+    <title>AGB · Louis Elia Hirsch</title>
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+
+  <body>
+    <div class="content">
+      <h1>Allgemeine Geschäftsbedingungen (AGB)</h1>
+      <p><strong>von</strong> Louis Elia Hirsch,<br />
+        Brettener Straße 77, 75053 Gondelsheim, Baden-Württemberg, Deutschland</p>
+      <p>(im Folgenden: der Designer)</p>
+
+      <ol>
+        <li>
+          <h2>Geltungsbereich</h2>
+          <ol>
+            <li>Diese AGB gelten für alle Verträge über Web-Design, Interface-Design (UX/UI), visuelle Website-Gestaltung, Branding (Logo, Corporate Identity, Geschäftsausstattung) sowie damit verwandte Leistungen zwischen dem Designer und dem Auftraggeber.</li>
+            <li>Abweichende Bedingungen des Auftraggebers werden nicht anerkannt, es sei denn, der Designer stimmt ihrer Geltung ausdrücklich schriftlich zu.</li>
+            <li>Die AGB können auch während eines laufenden Projekts aktualisiert werden. Der Auftraggeber ist verpflichtet, sich über den jeweils aktuellen Stand auf der Website zu informieren. Eine gesonderte Mitteilungspflicht des Designers besteht nicht, soweit rechtlich zulässig.</li>
+          </ol>
+        </li>
+
+        <li>
+          <h2>Vertragsgegenstand</h2>
+          <ol>
+            <li>Vertragsgegenstand ist die Konzeption, Gestaltung und Erstellung von Websites unter Nutzung eines vom Designer gewählten Tools. Der Auftraggeber verpflichtet sich, das Tool einschließlich sämtlicher Lizenzkosten bereitzustellen. Kosten für Grafiksoftware zur Erstellung statischer Inhalte sind hiervon ausgeschlossen.</li>
+            <li>Die Leistungen umfassen nach Vereinbarung u. a.: UX/UI-Design, Corporate Design, Logo-Entwicklung, Erstellung von Geschäftsausstattung (Visitenkarten, Briefpapier) sowie visuelle Gestaltung von Webauftritten.</li>
+            <li>Nicht geschuldet sind Leistungen, die nicht ausdrücklich vereinbart wurden, insbesondere: dauerhafte Pflege von Websites, Hosting, Domainregistrierung, IT-Support oder technischer Support sowie die Übergabe sogenannter „offener Dateien“. Diese Leistungen sind gesondert zu vereinbaren.</li>
+            <li>Rückfrage-Calls, Projekt-Updates und sonstige Abstimmungsgespräche per Telefon oder Videokonferenz werden auf Stundenbasis zusätzlich vergütet und sind nicht Teil des im Angebot vereinbarten Projektpreises.</li>
+          </ol>
+        </li>
+
+        <li>
+          <h2>Mitwirkungspflichten des Auftraggebers</h2>
+          <ol>
+            <li>Der Auftraggeber stellt alle für das Projekt erforderlichen Inhalte (Texte, Bilder, Logos, Zugänge, Daten) rechtzeitig zur Verfügung.</li>
+            <li>Der Auftraggeber versichert, dass er über alle notwendigen Rechte an den übergebenen Materialien verfügt, und stellt den Designer von sämtlichen Ansprüchen Dritter frei.</li>
+          </ol>
+        </li>
+
+        <li>
+          <h2>Lieferung durch den Designer</h2>
+          <ol>
+            <li>Die Lieferung von Daten und Arbeitsergebnissen durch den Designer gilt innerhalb von 7 Tagen nach vereinbartem Liefertermin als zumutbar.</li>
+            <li>Erfolgt keine Beschwerde seitens des Auftraggebers, können weitere Verzögerungen als angemessen angesehen werden.</li>
+          </ol>
+        </li>
+
+        <li>
+          <h2>Urheberrecht und Nutzungsrechte</h2>
+          <ol>
+            <li>Sämtliche Entwürfe, Reinzeichnungen, Programmierungen und Designs des Designers unterliegen dem Urheberrechtsgesetz, unabhängig davon, ob eine erforderliche Schöpfungshöhe erreicht wird.</li>
+            <li>Nach vollständiger Bezahlung erhält der Auftraggeber ein einfaches, nicht übertragbares Nutzungsrecht an den Arbeitsergebnissen im vertraglich vereinbarten Umfang (zeitlich, räumlich, inhaltlich).</li>
+            <li>Eine Weitergabe an Dritte, Veränderungen oder Erweiterungen der Werke ist nur mit ausdrücklicher Zustimmung des Designers zulässig.</li>
+            <li>Der Designer hat das Recht, als Urheber genannt zu werden, insbesondere im Impressum von erstellten Websites und Printprodukten.</li>
+          </ol>
+        </li>
+
+        <li>
+          <h2>Vergütung und Fälligkeit</h2>
+          <ol>
+            <li>Alle Leistungen sind kostenpflichtig, sofern nicht ausdrücklich anders vereinbart.</li>
+            <li>Die Vergütung ist, sofern nichts anderes vereinbart wird, bei Ablieferung der Leistung ohne Abzug fällig. Bei größeren Projekten können Abschlagszahlungen vereinbart werden.</li>
+            <li>Der Designer ist Kleinunternehmer im Sinne von § 19 UStG. Es wird daher keine Umsatzsteuer berechnet und ausgewiesen.</li>
+            <li>Bei Zahlungsverzug können Verzugszinsen nach § 288 BGB sowie angemessene Mahngebühren geltend gemacht werden.</li>
+          </ol>
+        </li>
+
+        <li>
+          <h2>Eigentum an Daten und Herausgabe</h2>
+          <ol>
+            <li>An Entwürfen und Daten werden nur Nutzungsrechte eingeräumt; ein Eigentumsübergang erfolgt nicht.</li>
+            <li>Der Designer ist nicht verpflichtet, offene Dateien (z. B. Projektdateien, Quelldateien) herauszugeben. Eine Herausgabe ist gesondert zu vereinbaren und zu vergüten.</li>
+          </ol>
+        </li>
+
+        <li>
+          <h2>Gestaltungsfreiheit und Abnahme</h2>
+          <ol>
+            <li>Im Rahmen des Auftrags besteht künstlerische Gestaltungsfreiheit. Reklamationen bezüglich künstlerischer Gestaltung sind ausgeschlossen.</li>
+            <li>Mit Abnahme übernimmt der Auftraggeber die Verantwortung für Richtigkeit von Text und Bild.</li>
+            <li><strong>Erläuterung:</strong> „Abnahme“ bedeutet die ausdrückliche Erklärung des Auftraggebers, dass die erbrachte Leistung vertragsgemäß ist. Erfolgt keine ausdrückliche Erklärung, gilt die Leistung spätestens nach Nutzung oder nach 14 Tagen ohne schriftliche Beanstandung als abgenommen.</li>
+          </ol>
+        </li>
+
+        <li>
+          <h2>Haftung</h2>
+          <ol>
+            <li>Der Designer haftet für Vorsatz und grobe Fahrlässigkeit; für leichte Fahrlässigkeit nur bei Verletzung wesentlicher Vertragspflichten (Kardinalpflichten) und begrenzt auf den typischen vorhersehbaren Schaden.</li>
+            <li>Für fremde Leistungen (z. B. Hosting, Drittsoftware, Lizenzen) übernimmt der Designer keine Haftung, ebenso nicht für Liefer- oder Leistungsverzug aufgrund von Fehlern oder Ausfällen Dritter.</li>
+            <li>Der Auftraggeber prüft eigenverantwortlich die rechtliche Zulässigkeit (Marken-, Wettbewerbs- und Datenschutzrecht) der Arbeiten.</li>
+            <li>Fälle höherer Gewalt (z. B. Naturkatastrophen, Stromausfall, Hackerangriffe, Pandemien, behördliche Anordnungen) entbinden den Designer von der Pflicht zur rechtzeitigen Leistung, solange das Ereignis andauert.</li>
+          </ol>
+        </li>
+
+        <li>
+          <h2>Kommunikation und Erreichbarkeit</h2>
+          <ol>
+            <li>Offizielle Kommunikation erfolgt ausschließlich per E-Mail. Schriftliche Antworten erfolgen innerhalb von 1–2 Werktagen (Montag bis Samstag).</li>
+            <li>Kommunikation über Instant-Messaging-Dienste (z. B. WhatsApp) ist zulässig, jedoch unverbindlich.</li>
+            <li>Alle E-Mails gelten als offizielle, rechtsverbindliche Dokumente.</li>
+          </ol>
+        </li>
+
+        <li>
+          <h2>Nebenberuflichkeit</h2>
+          <ol>
+            <li>Der Designer führt seine Tätigkeit im Rahmen einer nebenberuflichen Selbstständigkeit aus. Telefonische Erreichbarkeit ist daher eingeschränkt (Montag bis Freitag eingeschränkte Verfügbarkeit).</li>
+          </ol>
+        </li>
+
+        <li>
+          <h2>Gerichtsstand und Schlussbestimmungen</h2>
+          <ol>
+            <li>Erfüllungsort ist der Geschäftssitz des Designers in Gondelsheim.</li>
+            <li>Gerichtsstand ist, soweit gesetzlich zulässig, der Geschäftssitz des Designers. Zuständig ist im ersten Rechtszug das Amtsgericht Bretten; ab einem Streitwert von über 5.000 € das Landgericht Karlsruhe.</li>
+            <li>Es gilt ausschließlich deutsches Recht unter Ausschluss des UN-Kaufrechts.</li>
+            <li>Sollte eine Bestimmung dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.</li>
+          </ol>
+        </li>
+      </ol>
+    </div>
+
+    <div class="footer">
+      <p>
+        © <span id="year"></span> Louis Elia Hirsch ·
+        <a href="/privacy">Privacy</a> ·
+        <a href="/imprint">Imprint</a> ·
+        <a href="/contact">Contact</a>
+      </p>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
