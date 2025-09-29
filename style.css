@@ -24,11 +24,9 @@ body {
   min-height: 100%;
   min-height: 100vh;
   min-width: 100%;
-  /* Default: allow scrolling; index page will override */
   overflow-y: auto;
 }
 
-/* Index page: no scroll */
 body.index {
   overflow: hidden;
 }
@@ -36,6 +34,8 @@ body.index {
 h1,
 h2,
 h3,
+ol,
+li,
 a,
 p {
   font-family: "Questrial", sans-serif;
@@ -106,7 +106,6 @@ a:focus-visible {
   width: 100%;
 }
 
-/* Generic content container */
 .content {
   margin: 2rem auto;
   padding: 0 1rem;
@@ -114,7 +113,6 @@ a:focus-visible {
   max-width: 42rem;
 }
 
-/* Ordered lists styling for AGB page */
 ol {
   margin-left: 1.5rem;
   margin-bottom: 1rem;
@@ -124,7 +122,7 @@ ol li {
   margin-bottom: 0.5rem;
 }
 
-ol li ol {
+ol li {
   margin-left: 1.2rem;
   margin-top: 0.3rem;
 }
